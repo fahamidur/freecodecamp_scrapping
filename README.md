@@ -11,3 +11,4 @@ https://docs.python.org/3/library/venv.html
 
 after that you are free to run the scripts.
 You will find the list of the post in the "Extracted Files" folder
+Note: You have to create the file in the same path that of the scripts.
